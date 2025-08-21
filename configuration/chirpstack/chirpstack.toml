@@ -87,7 +87,6 @@
     "us915_1",
   ]
 
-  [network]
   # Maximum items in the downlink queue per device.
   max_device_queue_size=16
 
